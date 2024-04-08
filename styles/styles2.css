@@ -1,0 +1,8 @@
+body {
+    text-align: left;
+}
+#infoContainer {
+    width: 300px;
+    max-width: 300px;
+    overflow: scroll;
+}
